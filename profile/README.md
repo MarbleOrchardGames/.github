@@ -1,5 +1,4 @@
-## Hi there? 👋
-
+## Welcome to Marble Orchard Games!
 
 🙋‍♀️ A short introduction - ?
 🌈 Contribution guidelines - !
